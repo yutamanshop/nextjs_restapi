@@ -6,4 +6,4 @@
      
     python manage.py collectstatic --noinput
     python manage.py migrate
-   # python manage.py createsuperuser --username admin --email admin@test.com --noinput
+    python manage.py createsuperuser --username admin --email admin@test.com --noinput
